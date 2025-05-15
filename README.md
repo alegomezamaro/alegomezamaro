@@ -6,7 +6,7 @@
 
 ###
 
-<h5 align="left">I'm from Córdoba, Spain. I'm currently studying Computer Engineering at the University of Córdoba.</h5>
+<p align="left">I'm from Córdoba, Spain. I'm currently studying Computer Engineering at the University of Córdoba.</p>
 
 ###
 
