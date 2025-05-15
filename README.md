@@ -1,8 +1,8 @@
-<h1 align="left">Hi there! I'm Alejandro</h1>
+<h1 align="left">Hi there! I'm Alejandro👋🏽</h1>
 
 ###
 
-<h3 align="left">About Me:</h3>
+<h3 align="left">👨🏽‍💻 About Me:</h3>
 
 ###
 
@@ -18,7 +18,7 @@ I'm from Córdoba, Spain. I'm currently studying Computer Engineering at the [Un
 
 ###
 
-<h3 align="left">Skills:</h3>
+<h3 align="left">💾 Skills:</h3>
 
 ###
 
@@ -38,7 +38,7 @@ I'm from Córdoba, Spain. I'm currently studying Computer Engineering at the [Un
 
 ###
 
-<h3 align="left">OS, IDE & Tools:</h3>
+<h3 align="left">🛠 OS, IDE & Tools:</h3>
 
 ###
 
@@ -62,7 +62,7 @@ I'm from Córdoba, Spain. I'm currently studying Computer Engineering at the [Un
 
 ###
 
-<h3 align="left">GitHub Stats:</h3>
+<h3 align="left">📊 GitHub Stats:</h3>
 
 ###
 
