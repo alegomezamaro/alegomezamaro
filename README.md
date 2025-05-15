@@ -31,7 +31,7 @@ I'm from Córdoba, Spain. I'm currently studying Computer Engineering at the [Un
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="35" alt="css3 logo"  />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="35" alt="mysql logo"  />
+  <img src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" height="35" alt="mysql logo"  />
 </div>
 
 ###
@@ -45,11 +45,11 @@ I'm from Córdoba, Spain. I'm currently studying Computer Engineering at the [Un
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="35" alt="linux logo"  />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="35" alt="ubuntu logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/UbuntuCoF.svg" height="35" alt="ubuntu logo"  />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" alt="vscode logo"  />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35" alt="github logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Github-desktop-logo-symbol.svg" height="35" alt="github logo"  />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="35" alt="git logo"  />
   <img width="10" />
