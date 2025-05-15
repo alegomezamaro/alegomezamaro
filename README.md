@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">👨🏽‍💻 About Me:</h3>
+<h2 align="left">👨🏽‍💻 About Me:</h2>
 
 ###
 
@@ -18,11 +18,9 @@ I'm from Córdoba, Spain. I'm currently studying Computer Engineering at the [Un
 
 ###
 
-<h3 align="left">💾 Skills:</h3>
+<h2 align="left">💾 Skills:</h2>
 
 ###
-
-<br clear="both">
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" height="35" alt="c logo"  />
@@ -38,11 +36,9 @@ I'm from Córdoba, Spain. I'm currently studying Computer Engineering at the [Un
 
 ###
 
-<h3 align="left">🛠 OS, IDE & Tools:</h3>
+<h2 align="left">🛠 OS, IDE & Tools:</h2>
 
 ###
-
-<br clear="both">
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="35" alt="windows8 logo"  />
@@ -62,7 +58,7 @@ I'm from Córdoba, Spain. I'm currently studying Computer Engineering at the [Un
 
 ###
 
-<h3 align="left">📊 GitHub Stats:</h3>
+<h2 align="left">📊 GitHub Stats:</h2>
 
 ###
 
