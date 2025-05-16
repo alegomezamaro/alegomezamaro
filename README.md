@@ -12,7 +12,7 @@ I'm from Córdoba, Spain. I'm currently studying Computer Engineering at the [Un
 
 <div align="left">
   <a href="https://www.linkedin.com/in/alejandro-g%C3%B3mez-amaro-4566a5306/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="30" alt="linkedin logo"  />
+    <img src="https://www.svgrepo.com/show/157006/linkedin.svg" width="40" height="30" alt="linkedin logo"  />
   </a>
   <img width="10" />
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=alexgoama@gmail.com" target="_blank">
@@ -53,7 +53,7 @@ I'm from Córdoba, Spain. I'm currently studying Computer Engineering at the [Un
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" alt="vscode logo"  />
   <img width="10" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Github-desktop-logo-symbol.svg" height="35" alt="github logo"  />
+  <img src="https://www.svgrepo.com/show/475654/github-color.svg" height="35" alt="github logo"  />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="35" alt="git logo"  />
   <img width="10" />
