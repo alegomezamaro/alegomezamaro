@@ -14,6 +14,7 @@ I'm from Córdoba, Spain. I'm currently studying Computer Engineering at the [Un
   <a href="https://www.linkedin.com/in/alejandro-g%C3%B3mez-amaro-4566a5306/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="30" alt="linkedin logo"  />
   </a>
+  <img width="10" />
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=alexgoama@gmail.com" target="_blank">
     <img src="https://www.svgrepo.com/show/303161/gmail-icon-logo.svg" width="40" height="30" alt="gmail logo"  />
   </a>
