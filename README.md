@@ -22,7 +22,7 @@ I'm from Córdoba, Spain. I'm currently studying Computer Engineering at the [Un
 
 ###
 
-<h2 align="left">💾 My skills:</h2>
+<h2 align="left">💾 My Skills:</h2>
 
 ###
 
