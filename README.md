@@ -16,7 +16,7 @@ I'm from Córdoba, Spain. I'm currently studying Computer Engineering at the [Un
   </a>
   <img width="10" />
   <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=DmwnWrRqhSKzrBGbFMRzGnLSBldXNXpFKxpckGXrJppkcrQwCtSKCkBbcrdzfmWWWgFmJmSFhNkL" target="_blank">
-    <img src="https://www.svgrepo.com/show/303161/gmail-icon-logo.svg" width="40" height="30" alt="gmail logo"  />
+    <img src="mailto:alex@gmail.com" width="40" height="30" alt="gmail logo"  />
   </a>
   <img width="10" />
   <a href="https://alegomezamaro.github.io/" target="_blank">
