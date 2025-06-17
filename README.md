@@ -15,7 +15,7 @@ I'm from Córdoba, Spain. I'm currently studying Computer Engineering at the [Un
     <img src="https://www.svgrepo.com/show/157006/linkedin.svg" width="40" height="30" alt="linkedin logo"  />
   </a>
   <img width="10" />
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=alexgoama@gmail.com" target="_blank">
+  <a href="#" onclick="navigator.clipboard.writeText('alexgoama@gmail.com').then(() => alert('¡Correo copiado al portapapeles!'))">
     <img src="https://www.svgrepo.com/show/303161/gmail-icon-logo.svg" width="40" height="30" alt="gmail logo"  />
   </a>
   <img width="10" />
