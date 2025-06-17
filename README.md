@@ -15,10 +15,6 @@ I'm from Córdoba, Spain. I'm currently studying Computer Engineering at the [Un
     <img src="https://www.svgrepo.com/show/157006/linkedin.svg" width="40" height="30" alt="linkedin logo"  />
   </a>
   <img width="10" />
-  <a href="mailto:alexgoama@gmail.com">
-    <img src="https://www.svgrepo.com/show/303161/gmail-icon-logo.svg" width="40" height="30" alt="gmail logo"  />
-  </a>
-  <img width="10" />
   <a href="https://alegomezamaro.github.io/" target="_blank">
     <img src="https://www.svgrepo.com/show/148137/folder.svg" width="40" height="30" alt="mi portfolio"  />
   </a>
