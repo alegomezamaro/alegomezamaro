@@ -6,7 +6,7 @@
 
 ###
 
-I'm from Córdoba, Spain. I'm currently studying Computer Engineering at the [University of Córdoba](http://www.uco.es/).
+I'm from Córdoba, Spain. I'm currently studying [Computer Engineering at the University of Córdoba](https://www.uco.es/eps/es/descripcion-ing-informatica).
 
 ###
 
