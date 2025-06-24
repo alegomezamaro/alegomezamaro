@@ -11,11 +11,11 @@ I'm from Córdoba, Spain. I'm currently studying [Computer Engineering at the Un
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/alejandro-g%C3%B3mez-amaro-4566a5306/" target="_blank">
+  <a href="https://www.linkedin.com/in/alejandro-g%C3%B3mez-amaro-4566a5306/" target="_blank" style="text-decoration: none;">
     <img src="https://www.svgrepo.com/show/157006/linkedin.svg" width="40" height="30" alt="linkedin logo"  />
   </a>
   <img width="10" />
-  <a href="https://alegomezamaro.github.io/" target="_blank">
+  <a href="https://alegomezamaro.github.io/" target="_blank" style="text-decoration: none;">
     <img src="https://www.svgrepo.com/show/148137/folder.svg" width="40" height="30" alt="mi portfolio"  />
   </a>
 </div>
@@ -35,7 +35,9 @@ I'm from Córdoba, Spain. I'm currently studying [Computer Engineering at the Un
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="35" alt="css3 logo"  />
   <img width="10" />
-  <img src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" height="35" alt="mysql logo"  />
+  <a href="https://www.mysql.com/" target="_blank" style="text-decoration: none;">
+    <img src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" height="35" alt="mysql logo"  />
+  </a>
 </div>
 
 ###
@@ -51,7 +53,9 @@ I'm from Córdoba, Spain. I'm currently studying [Computer Engineering at the Un
   <img width="10" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/UbuntuCoF.svg" height="35" alt="ubuntu logo"  />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" alt="vscode logo"  />
+  <a href="https://code.visualstudio.com/" target="_blank" style="text-decoration: none;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" alt="vscode logo"  />
+  </a>
   <img width="10" />
   <img src="https://www.svgrepo.com/show/475654/github-color.svg" height="35" alt="github logo"  />
   <img width="10" />
