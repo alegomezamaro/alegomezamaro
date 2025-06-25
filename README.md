@@ -6,7 +6,11 @@
 
 ###
 
-I'm from Córdoba, Spain. I'm currently studying [Computer Engineering at the University of Córdoba](https://www.uco.es/eps/es/descripcion-ing-informatica).
+Currently pursuing a degree in [Computer Engineering at the University of Córdoba](https://www.uco.es/eps/es/descripcion-ing-informatica), with a strong interest in software development and cybersecurity.
+
+I’m learning C++ and Python, combining academic training with online courses and hands-on projects. Passionate about continuous learning, teamwork, and building innovative tech solutions.
+
+Open to collaboration, networking, and new learning opportunities in the tech world.
 
 ###
 
