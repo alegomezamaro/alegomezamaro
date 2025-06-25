@@ -15,7 +15,7 @@ Open to collaboration, networking, and new learning opportunities in the tech wo
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/alejandro-g%C3%B3mez-amaro-4566a5306/" target="_blank" style="text-decoration: none;">
+  <a href="https://www.linkedin.com/in/alegomezamaro/" target="_blank" style="text-decoration: none;">
     <img src="https://www.svgrepo.com/show/157006/linkedin.svg" width="40" height="30" alt="linkedin logo"  />
   </a>
   <img width="10" />
